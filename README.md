@@ -388,14 +388,6 @@ begin
     $finish;
 
 end
-
-// Monitor values in Tcl Console
-initial
-begin
-    $monitor("Time=%0t parallel_in=%b parallel_out=%b",
-              $time, parallel_in, parallel_out);
-end
-
 endmodule
 ```
 
