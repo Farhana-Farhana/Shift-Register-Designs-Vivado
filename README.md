@@ -83,7 +83,7 @@ endmodule
 
 ## Waveform
 
-![SISO Waveform](SISO/waveform.png)
+![SISO Waveform](siso/waveform.png)
 
 ## Waveform Explanation
 
