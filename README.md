@@ -179,7 +179,7 @@ endmodule
 
 ## Waveform
 
-![SIPO Waveform](SIPO/waveform.png)
+![SIPO Waveform](sipo/waveform.png)
 
 ## Waveform Explanation
 
@@ -290,7 +290,7 @@ endmodule
 
 ## Waveform
 
-![PISO Waveform](PISO/waveform.png)
+![PISO Waveform](piso/waveform.png)
 
 ## Waveform Explanation
 
@@ -393,7 +393,7 @@ endmodule
 
 ## Waveform
 
-![PIPO Waveform](PIPO/waveform.png)
+![PIPO Waveform](pipo/waveform.png)
 
 ## Waveform Explanation
 
